@@ -1,6 +1,25 @@
-Video Game Genres
+______________________________
+✅ - Done
+❌ - Not Done
+👁️ - Working in Progress
+______________________________
 
-# Action Genres
+
+_________________________________ Video Game Genres _________________________________
+
+_________________ All Games _________________
+👁️ - ZakHIT
+❌ - ThaiSymphony
+
+
+_________________ Sketch Ideas _________________
+- PS1 Horror
+- Visual Novel
+- MacroCircus
+- Teenwood
+- SpaceKat
+
+_________________ Action Genres _________________
 Fast reflexes and real-time gameplay.
 
 - Action
@@ -22,20 +41,20 @@ Fast reflexes and real-time gameplay.
   - Light-gun shooter
   - Bullet hell / Danmaku
 - Platformer
-  - 2D platformer
+  - 2D platformer: ZakHIT 👁️
   - 3D platformer
   - Precision platformer
   - Cinematic platformer
   - Collectathon
 - Stealth
 - Survival action
-- Rhythm action
+- Rhythm action: Thai Symphony ❌
 - Battle royale
 - Roguelite action
 - Soulslike
-- Metroidvania
+- Metroidvania: ZakHIT 👁️
 
-# Adventure Genres
+_________________ Adventure Genres _________________
 Exploration, story, puzzles, and discovery.
 
 - Adventure
@@ -52,7 +71,7 @@ Exploration, story, puzzles, and discovery.
 - Interactive movie / FMV
 - Choice-based narrative
 
-# Role-Playing Genres (RPGs)
+_________________ Role-Playing Genres (RPGs) _________________
 Character growth, stats, equipment, progression.
 
 - RPG
@@ -71,7 +90,7 @@ Character growth, stats, equipment, progression.
 - Open-world RPG
 - Soulslike RPG
 
-# Strategy Genres
+_________________ Strategy Genres _________________
 Planning and resource management.
 
 - Strategy
@@ -90,7 +109,7 @@ Planning and resource management.
 - Political simulation
 - Economic simulation
 
-# Simulation Genres
+_________________ Simulation Genres _________________
 Model real or imagined systems.
 
 - Simulation
@@ -109,7 +128,7 @@ Model real or imagined systems.
 - Immersive sim
 - Sandbox sim
 
-# Sports & Racing
+_________________ Sports & Racing _________________
 Competition-focused gameplay.
 
 - Sports
@@ -129,7 +148,7 @@ Competition-focused gameplay.
   - Rally racing
   - Futuristic racing
 
-# Puzzle Genres
+_________________ Puzzle Genres _________________
 Logic, pattern recognition, problem-solving.
 
 - Puzzle
@@ -143,7 +162,7 @@ Logic, pattern recognition, problem-solving.
 - Sokoban
 - Tile-matching
 
-# Horror Genres
+_________________ Horror Genres _________________
 Fear, tension, survival.
 
 - Horror
@@ -153,7 +172,7 @@ Fear, tension, survival.
 - Cosmic horror
 - Multiplayer horror
 
-# Sandbox & Creative Genres
+_________________ Sandbox & Creative Genres _________________
 Player freedom and creation tools.
 
 - Sandbox
@@ -165,7 +184,7 @@ Player freedom and creation tools.
 - Creative sandbox
 - Social sandbox
 
-# Multiplayer & Online-Focused Genres
+_________________ Multiplayer & Online-Focused Genres _________________
 Structured around interaction with other players.
 
 - MMO
@@ -178,7 +197,7 @@ Structured around interaction with other players.
 - Extraction game
 - Asymmetrical multiplayer
 
-# Hybrid / Emerging Genres
+_________________ Hybrid / Emerging Genres _________________
 Modern genres often combine mechanics.
 
 - Deckbuilder
@@ -194,7 +213,7 @@ Modern genres often combine mechanics.
 - Metroidvania
 - Auto shooter / Survivor-like
 
-# Common Genre Tags
+_________________ Common Genre Tags _________________
 - Open world
 - Procedural generation
 - Narrative-driven
@@ -212,7 +231,7 @@ Modern genres often combine mechanics.
 - Educational
 - Serious game
 
-# By Perspective or Presentation
+_________________ By Perspective or Presentation _________________
 - First-person
 - Third-person
 - Top-down
@@ -224,10 +243,11 @@ Modern genres often combine mechanics.
 - VR
 - AR
 
-# By Platform Ecosystem
+_________________ By Platform Ecosystem _________________
 - Mobile game
 - Browser game
 - PC game
 - Console game
 - Handheld game
 - Cloud game
+
